@@ -1,0 +1,13 @@
+# Dev environment
+pip
+autopep8
+
+# App
+pandas 
+numpy
+nltk
+skcikit-learn
+matplotlib
+tqdm
+sastrawi
+emoji==1.7.0
